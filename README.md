@@ -26,6 +26,10 @@ Alright, so now we're getting there. I have outlined the basics of what we're ab
 
 Copy/paste:
 
+Install curl
+
+$ sudo apt-get install curl
+
 Make directory for repo binary
 
 $ mkdir ~/bin
