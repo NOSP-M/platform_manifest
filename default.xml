@@ -480,12 +480,12 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <!--NOSP Devices-->
   <!--LG Devices-->
-  <project path="device/lge/hammerhead" name="NOSP/android_device_lge_hammerhead" remote="nosp" revision="nosp444" />
-  <project path="kernel/lge/hammerhead" name="NOSP/android_kernel_lge_hammerhead" remote="nosp" revision="nosp444" />
+  <project path="device/lge/hammerhead" name="android_device_lge_hammerhead" remote="nosp" revision="nosp444" />
+  <project path="kernel/lge/hammerhead" name="android_kernel_lge_hammerhead" remote="nosp" revision="nosp444" />
   <!--HTC Devices-->
   <!--Samsung Devices-->
   <!--NOSP adons-->
-  <project path="packages/apps/ThemeChooser" name="NOSP/android_packages_apps_ThemeChooser" remote="nosp" revision="nosp444" />
-  <project path="packages/providers/ThemesProvider" name="NOSP/android_packages_providers_ThemesProvider" remote="nosp" revision="nosp444" />  
-  <project path="packages/apps/SlothWalls" name="NOSP/packages_wallpapers_SlothWalls" remote="nosp" revision="nosp444" />  
+  <project path="packages/apps/ThemeChooser" name="android_packages_apps_ThemeChooser" remote="nosp" revision="nosp444" />
+  <project path="packages/providers/ThemesProvider" name="android_packages_providers_ThemesProvider" remote="nosp" revision="nosp444" />  
+  <project path="packages/apps/SlothWalls" name="packages_wallpapers_SlothWalls" remote="nosp" revision="nosp444" />  
 </manifest>
