@@ -489,4 +489,5 @@
   <!--NOSP adons-->
   <project path="packages/apps/ThemeChooser" name="NOSP/android_packages_apps_ThemeChooser" remote="nosp" revision="nosp444" />
   <project path="packages/providers/ThemesProvider" name="NOSP/android_packages_providers_ThemesProvider" remote="nosp" revision="nosp444" />  
+  <project path="packages/apps/SlothWalls" name="NOSP/packages_wallpapers_SlothWalls" remote="nosp" revision="nosp444" />  
 </manifest>
