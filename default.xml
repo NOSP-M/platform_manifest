@@ -6,7 +6,7 @@
            review="android-review.googlesource.com" />
            
   <remote  name="nosp"
-           review="https://github.com/NOSP" />
+           fetch="https://github.com/NOSP" />
            
   <remote  name="omnirom"
            review="gerrit.omnirom.org"
