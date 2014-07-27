@@ -21,7 +21,6 @@
            
   <default revision="nosp444"
            remote="nosp"
-           sync-c="true"
            sync-j="4" />
            
 
