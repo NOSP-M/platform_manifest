@@ -6,7 +6,7 @@
            review="android-review.googlesource.com" />
            
   <default revision="master"
-           remote="NOSP"
+           remote="aosp"
            sync-j="4" />
            
            
