@@ -25,9 +25,10 @@
            
            
 
-  <project path="build" name="NOSP/build" remote="nosp" revision="nosp444" groups="pdk">
-    <copyfile src="core/root.mk" dest="Makefile" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
+  <project path="build" name="build" remote="aosp" revision="refs/tags/android-4.4.4_r2" groups="pdk">
+    <copyfile src="core/root.mk" dest="Makefile" />
   </project>
+  <!--AOSP repos-->
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="art" name="platform/art" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="bionic" name="platform/bionic" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
@@ -41,27 +42,15 @@
   <project path="developers/docs" name="platform/developers/docs" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="developers/samples/android" name="platform/developers/samples/android" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="development" name="platform/development" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="device/asus/deb" name="device/asus/deb" groups="device,flo" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="device/asus/flo" name="device/asus/flo" groups="device,flo" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="device/asus/flo-kernel" name="device/asus/flo-kernel" groups="device,flo" clone-depth="1" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="device/asus/grouper" name="device/asus/grouper" groups="device,grouper" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="device/asus/tilapia" name="device/asus/tilapia" groups="device,grouper" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="device/common" name="device/common" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="device/generic/mips" name="device/generic/mips" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="device/generic/mini-emulator-armv7-a-neon" name="device/generic/mini-emulator-armv7-a-neon" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="device/generic/mini-emulator-mips" name="device/generic/mini-emulator-mips" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="device/generic/mini-emulator-x86" name="device/generic/mini-emulator-x86" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="device/generic/qemu" name="device/generic/qemu" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="device/generic/x86" name="device/generic/x86" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="device/lge/mako" name="device/lge/mako" groups="device,mako" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="device,mako" clone-depth="1" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="device/sample" name="device/sample" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="device/samsung/manta" name="device/samsung/manta" groups="device,manta" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/android-clat" name="platform/external/android-clat" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
