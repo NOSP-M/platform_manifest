@@ -56,7 +56,7 @@ Initialize the NOSP repo and download the manifest
 
 Init core trees without any device/kernel/vendor :
 
-$ repo init -u https://github.com/NOSP/platform_manifest.git -b master
+$ repo init -u https://github.com/NOSP/platform_manifest.git -b nosp444
 
 sync repo : 
 
