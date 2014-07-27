@@ -480,6 +480,12 @@
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
+  <!--NOSP Devices-->
+  <!--LG Devices-->
+  <project path="device/lge/hammerhead" name="NOSP/android_device_lge_hammerhead" remote="nosp" revision="nosp444" />
+  <project path="kernel/lge/hammerhead" name="NOSP/android_kernel_lge_hammerhead" remote="nosp" revision="nosp444" />
+  <!--HTC Devices-->
+  <!--Samsung Devices-->
   <!--NOSP adons-->
   <project path="packages/apps/ThemeChooser" name="NOSP/android_packages_apps_ThemeChooser" remote="nosp" revision="nosp444" />
   <project path="packages/providers/ThemesProvider" name="NOSP/android_packages_providers_ThemesProvider" remote="nosp" revision="nosp444" />  
