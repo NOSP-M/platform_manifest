@@ -114,7 +114,6 @@
   <project path="external/eyes-free" name="platform/external/eyes-free" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/f2fs-tools" name="android_external_f2fs-tools" remote="omnirom" revision="android-4.4" />
   <project path="external/fdlibm" name="platform/external/fdlibm" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="external/fio" name="platform/external/fio" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/flac" name="platform/external/flac" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/freetype" name="platform/external/freetype" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/fsck_msdos" name="platform/external/fsck_msdos" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
