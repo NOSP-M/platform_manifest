@@ -22,7 +22,7 @@
            
            
 
-  <project path="build" name="platform/build" groups="pdk" >
+  <project path="build" name="NOSP/build" remote="aosp" revision="nosp444" groups="pdk">
     <copyfile src="core/root.mk" dest="Makefile" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
