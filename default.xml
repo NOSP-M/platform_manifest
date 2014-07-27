@@ -9,8 +9,7 @@
            sync-j="4" />
            
            
-           
-  <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
+
   <project path="build" name="platform/build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   </project>
