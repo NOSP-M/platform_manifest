@@ -366,6 +366,7 @@
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
+  <project path="packages/apps/ThemeChooser" name="NOSP/android_packages_apps_ThemeChooser" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="packages/apps/TvSettings" name="platform/packages/apps/TvSettings" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
@@ -382,6 +383,7 @@
   <project path="packages/providers/MediaProvider" name="platform/packages/providers/MediaProvider" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="packages/providers/TelephonyProvider" name="platform/packages/providers/TelephonyProvider" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
+  <project path="packages/providers/ThemesProvider" name="NOSP/android_packages_providers_ThemesProvider" />
   <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="packages/screensavers/Basic" name="platform/packages/screensavers/Basic" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="packages/screensavers/PhotoTable" name="platform/packages/screensavers/PhotoTable" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
