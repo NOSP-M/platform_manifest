@@ -112,7 +112,7 @@
   <project path="external/esd" name="platform/external/esd" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/expat" name="platform/external/expat" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/eyes-free" name="platform/external/eyes-free" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="external/f2fs-tools" name="platform/external/f2fs-tools" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
+  <project path="external/f2fs-tools" name="platform/external/f2fs-tools" revision="master" remote="aosp" />
   <project path="external/fdlibm" name="platform/external/fdlibm" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/fio" name="platform/external/fio" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/flac" name="platform/external/flac" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
