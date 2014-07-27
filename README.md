@@ -58,9 +58,11 @@ Init core trees without any device/kernel/vendor :
 
 $ repo init -u https://github.com/NOSP/platform_manifest.git -b master
 
-sync repo :
+sync repo : 
 
-$ repo sync use the Make clean script if you want to do a clean build
+$ repo sync or $ repo sync -j16
+
+use the Make clean script if you want to do a clean build
 
 $ make clean && make clobber
 
