@@ -19,8 +19,8 @@
   <remote  name="private"
            fetch="ssh://git@github.com" />
            
-  <default revision="refs/tags/android-4.4.4_r1"
-           remote="aosp"
+  <default revision="nosp444"
+           remote="nosp"
            sync-c="true"
            sync-j="4" />
            
