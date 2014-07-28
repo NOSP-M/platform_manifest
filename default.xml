@@ -440,6 +440,7 @@
   <!--HTC Devices-->
   <!--Samsung Devices-->
   <!--NOSP adons-->
+  <project path="external/busybox" name="android_external_busybox" remote="nosp" revision="nosp444" />  
   <project path="packages/apps/ThemeChooser" name="android_packages_apps_ThemeChooser" remote="nosp" revision="nosp444" />
   <project path="packages/providers/ThemesProvider" name="android_packages_providers_ThemesProvider" remote="nosp" revision="nosp444" />  
   <project path="packages/apps/SlothWalls" name="packages_wallpapers_SlothWalls" remote="nosp" revision="nosp444" />  
