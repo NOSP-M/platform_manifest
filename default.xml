@@ -366,15 +366,13 @@
   <project path="prebuilts/clang/darwin-x86/3.1" name="platform/prebuilts/clang/darwin-x86/3.1" groups="pdk,darwin" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="prebuilts/clang/darwin-x86/3.2" name="platform/prebuilts/clang/darwin-x86/3.2" groups="pdk,darwin" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="prebuilts/clang/darwin-x86/arm/3.3" name="platform/prebuilts/clang/darwin-x86/arm/3.3" groups="darwin,arm" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="prebuilts/clang/darwin-x86/host/3.4" name="platform/prebuilts/clang/darwin-x86/host/3.4" groups="pdk,darwin" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="prebuilts/clang/darwin-x86/host/3.5" name="platform/prebuilts/clang/darwin-x86/host/3.5" groups="pdk,darwin" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
+  <project path="prebuilts/clang/darwin-x86/host/3.4" name="platform/prebuilts/clang/darwin-x86/host/3.3" groups="pdk,darwin" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="prebuilts/clang/darwin-x86/mips/3.3" name="platform/prebuilts/clang/darwin-x86/mips/3.3" groups="darwin,mips" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="prebuilts/clang/darwin-x86/x86/3.3" name="platform/prebuilts/clang/darwin-x86/x86/3.3" groups="darwin,x86" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="prebuilts/clang/linux-x86/3.1" name="platform/prebuilts/clang/linux-x86/3.1" groups="pdk,linux" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="prebuilts/clang/linux-x86/3.2" name="platform/prebuilts/clang/linux-x86/3.2" groups="pdk,linux" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="prebuilts/clang/linux-x86/arm/3.3" name="platform/prebuilts/clang/linux-x86/arm/3.3" groups="linux,arm" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="prebuilts/clang/linux-x86/host/3.4" name="platform/prebuilts/clang/linux-x86/host/3.4" groups="pdk,linux" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="prebuilts/clang/linux-x86/host/3.5" name="platform/prebuilts/clang/linux-x86/host/3.5" groups="pdk,linux" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
+  <project path="prebuilts/clang/linux-x86/host/3.4" name="platform/prebuilts/clang/linux-x86/host/3.3" groups="pdk,linux" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="prebuilts/clang/linux-x86/mips/3.3" name="platform/prebuilts/clang/linux-x86/mips/3.3" groups="linux,mips" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="prebuilts/clang/linux-x86/x86/3.3" name="platform/prebuilts/clang/linux-x86/x86/3.3" groups="linux,x86" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="prebuilts/devtools" name="platform/prebuilts/devtools" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
