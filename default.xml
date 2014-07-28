@@ -153,18 +153,15 @@
   <project path="external/libmtp" name="platform/external/libmtp" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/libnfc-nci" name="platform/external/libnfc-nci" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/libnfc-nxp" name="platform/external/libnfc-nxp" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="external/libnl" name="platform/external/libnl" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/libnl-headers" name="platform/external/libnl-headers" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/libogg" name="platform/external/libogg" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/libpcap" name="platform/external/libpcap" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/libphonenumber" name="platform/external/libphonenumber" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/libpng" name="platform/external/libpng" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/libppp" name="platform/external/libppp" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="external/libseccomp-helper" name="platform/external/libseccomp-helper" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/libselinux" name="platform/external/libselinux" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/libsepol" name="platform/external/libsepol" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/libssh2" name="platform/external/libssh2" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="external/libunwind" name="platform/external/libunwind" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/libusb" name="platform/external/libusb" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/libusb-compat" name="platform/external/libusb-compat" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/libvorbis" name="platform/external/libvorbis" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
