@@ -233,7 +233,6 @@
   <project path="external/tinyxml2" name="platform/external/tinyxml2" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/tremolo" name="platform/external/tremolo" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/valgrind" name="platform/external/valgrind" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="external/vixl" name="platform/external/vixl" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/webp" name="platform/external/webp" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
