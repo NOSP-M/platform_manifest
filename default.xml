@@ -172,13 +172,11 @@
   <project path="external/linux-tools-perf" name="platform/external/linux-tools-perf" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/littlemock" name="platform/external/littlemock" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/llvm" name="platform/external/llvm" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="external/ltrace" name="platform/external/ltrace" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/lzma" name="platform/external/lzma" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/marisa-trie" name="platform/external/marisa-trie" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/markdown" name="platform/external/markdown" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/mdnsresponder" name="platform/external/mdnsresponder" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/mesa3d" name="platform/external/mesa3d" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="external/messageformat" name="platform/external/messageformat" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/mksh" name="platform/external/mksh" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/mockito" name="platform/external/mockito" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/mockwebserver" name="platform/external/mockwebserver" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
