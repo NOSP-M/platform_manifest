@@ -186,7 +186,6 @@
   <project path="external/netcat" name="platform/external/netcat" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/netperf" name="platform/external/netperf" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/neven" name="platform/external/neven" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="external/nfacct" name="platform/external/nfacct" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/nist-pkits" name="platform/external/nist-pkits" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/nist-sip" name="platform/external/nist-sip" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/noto-fonts" name="platform/external/noto-fonts" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
@@ -199,8 +198,6 @@
   <project path="external/openssh" name="platform/external/openssh" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/openssl" name="platform/external/openssl" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/oprofile" name="platform/external/oprofile" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="external/owasp/sanitizer" name="platform/external/owasp/sanitizer" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="external/pcre" name="platform/external/pcre" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/pixman" name="platform/external/pixman" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/ppp" name="platform/external/ppp" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/proguard" name="platform/external/proguard" groups="pdk-java" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
@@ -227,7 +224,6 @@
   <project path="external/strace" name="platform/external/strace" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/stressapptest" name="platform/external/stressapptest" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/svox" name="platform/external/svox" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="external/syspatch" name="platform/external/syspatch" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/tagsoup" name="platform/external/tagsoup" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/tcpdump" name="platform/external/tcpdump" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/timezonepicker-support" name="platform/external/timezonepicker-support" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
@@ -241,7 +237,6 @@
   <project path="external/webp" name="platform/external/webp" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="external/xdelta3" name="platform/external/xdelta3" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/yaffs2" name="platform/external/yaffs2" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
@@ -255,7 +250,6 @@
   <project path="frameworks/ex" name="platform/frameworks/ex" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="frameworks/mff" name="platform/frameworks/mff" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="frameworks/ml" name="platform/frameworks/ml" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="frameworks/multidex" name="platform/frameworks/multidex" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="frameworks/native" name="platform/frameworks/native" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="frameworks/opt/carddav" name="platform/frameworks/opt/carddav" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
