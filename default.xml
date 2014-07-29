@@ -25,7 +25,7 @@
            sync-j="4" />
            
 
-  <project path="build" name="platform/build" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" >
+  <project path="build" name="android_build" groups="pdk" revision="nosp444" remote="nosp" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <!--AOSP repos-->
