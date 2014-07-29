@@ -25,7 +25,7 @@
            sync-j="4" />
            
 
-  <project path="build" name="platform/build" groups="pdk" revision="nosp444" remote="nosp" >
+  <project path="build" name="platform_build" groups="pdk" revision="nosp444" remote="nosp" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <!--AOSP repos-->
