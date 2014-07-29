@@ -433,6 +433,8 @@
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
+  <!--NOSP Configurations-->
+  <project path="vendor/nosp" name="vendor_nosp" remote="nosp" revision="nosp444" />
   <!--NOSP Devices-->
   <!--LG Devices-->
   <project path="device/lge/hammerhead" name="android_device_lge_hammerhead" remote="nosp" revision="nosp444" />
