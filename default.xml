@@ -30,7 +30,6 @@
   </project>
   <!--AOSP repos-->
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="art" name="platform/art" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="bionic" name="platform/bionic" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
@@ -441,6 +440,7 @@
   <!--HTC Devices-->
   <!--Samsung Devices-->
   <!--NOSP adons-->
+  <project path="art" name="platform/art" remote="nosp" revision="nosp444" />
   <project path="dalvik" name="platform/dalvik" remote="nosp" revision="nosp444" />
   <project path="external/busybox" name="android_external_busybox" remote="nosp" revision="nosp444" />  
   <project path="packages/apps/ThemeChooser" name="android_packages_apps_ThemeChooser" remote="nosp" revision="nosp444" />
