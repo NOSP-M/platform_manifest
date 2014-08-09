@@ -243,7 +243,6 @@
   <project path="external/zlib" name="platform/external/zlib" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/zxing" name="platform/external/zxing" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="frameworks/base" name="platform/frameworks/base" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
@@ -440,6 +439,7 @@
   <!--HTC Devices-->
   <!--Samsung Devices-->
   <!--NOSP adons-->
+  <project path="frameworks/base" name="platform_frameworks_base" remote="nosp" revision="nosp444" />
   <project path="external/chromium_org" name="android_external_chromium_org" remote="nosp" revision="nosp444" />
   <project path="art" name="platform_art" remote="nosp" revision="nosp444" />
   <project path="dalvik" name="platform_dalvik" remote="nosp" revision="nosp444" />
