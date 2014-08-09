@@ -412,7 +412,6 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="sdk" name="platform/sdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="system/core" name="platform/system/core" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="system/extras" name="platform/system/extras" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="system/media" name="platform/system/media" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
@@ -438,6 +437,7 @@
   <!--HTC Devices-->
   <!--Samsung Devices-->
   <!--NOSP adons-->
+  <project path="system/core" name="platform_system_core" groups="pdk" remote="nosp" revision="nosp444" />
   <project path="frameworks/native" name="platform_frameworks_native" groups="pdk" remote="nosp" revision="nosp444" />
   <project path="frameworks/base" name="platform_frameworks_base" remote="nosp" revision="nosp444" />
   <project path="external/chromium_org" name="android_external_chromium_org" remote="nosp" revision="nosp444" />
