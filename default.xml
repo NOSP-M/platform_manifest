@@ -439,6 +439,7 @@
   <!--HTC Devices-->
   <!--Samsung Devices-->
   <!--NOSP adons-->
+  <project path="frameworks/native" name="platform_frameworks_native" groups="pdk" remote="nosp" revision="nosp444" />
   <project path="frameworks/base" name="platform/frameworks/base" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="external/chromium_org" name="android_external_chromium_org" remote="nosp" revision="nosp444" />
   <project path="art" name="platform_art" remote="nosp" revision="nosp444" />
