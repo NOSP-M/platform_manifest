@@ -36,7 +36,6 @@
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="bootable/recovery" name="platform/bootable/recovery" groups="pdk" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="cts" name="platform/cts" groups="cts" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
-  <project path="dalvik" name="platform/dalvik" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="developers/build" name="platform/developers/build" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="developers/demos" name="platform/developers/demos" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
   <project path="developers/docs" name="platform/developers/docs" revision="refs/tags/android-4.4.4_r2" remote="aosp" />
@@ -442,6 +441,7 @@
   <!--HTC Devices-->
   <!--Samsung Devices-->
   <!--NOSP adons-->
+  <project path="dalvik" name="platform/dalvik" remote="nosp" revision="nosp444" />
   <project path="external/busybox" name="android_external_busybox" remote="nosp" revision="nosp444" />  
   <project path="packages/apps/ThemeChooser" name="android_packages_apps_ThemeChooser" remote="nosp" revision="nosp444" />
   <project path="packages/providers/ThemesProvider" name="android_packages_providers_ThemesProvider" remote="nosp" revision="nosp444" />  
