@@ -437,6 +437,7 @@
   <!--HTC Devices-->
   <!--Samsung Devices-->
   <!--NOSP adons-->
+  <project path="hardware/ril" name="android_hardware_ril" groups="pdk" remote="nosp" revision="nosp444" />
   <project path="libcore" name="platform_lib_core" remote="nosp" revision="nosp444" />
   <project path="system/core" name="platform_system_core" groups="pdk" remote="nosp" revision="nosp444" />
   <project path="frameworks/native" name="platform_frameworks_native" groups="pdk" remote="nosp" revision="nosp444" />
