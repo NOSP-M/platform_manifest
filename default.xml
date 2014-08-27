@@ -436,7 +436,7 @@
   <!--HTC Devices-->
   <!--Samsung Devices-->
   <project path="device/samsung/klte" name="android_device_samsung_klte" remote="nosp" revision="nosp444" />
-  <project path="kernel/samesung/klte" name="android_kernel_samsung_klte" remote="nosp" revision="nosp444" />
+  <project path="kernel/samesung/klte" name="KTSGS5" remote="nosp" revision="nosp444" />
   <!--NOSP adons-->
   <project path="hardware/ril" name="android_hardware_ril" groups="pdk" remote="nosp" revision="nosp444" />
   <project path="libcore" name="platform_lib_core" remote="nosp" revision="nosp444" />
