@@ -517,4 +517,4 @@
   <!--HTC Devices-->
   <!--Samsung Devices-->
   <!--NOSP adons-->
-</manifest>
+  <project path="vendor/lge" name="_vendor_lge" remote="nosp" revision="nosp500" /></manifest>
