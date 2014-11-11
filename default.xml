@@ -11,7 +11,7 @@
            remote="aosp"
            sync-j="8" />
 
-  <project path="build" name="platform/build" groups="pdk,tradefed" >
+  <project path="build" name="platform_build" remote="nosp" revision="nosp500" groups="pdk,tradefed" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <!--AOSP repos-->
