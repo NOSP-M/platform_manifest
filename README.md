@@ -16,19 +16,7 @@ Create the build directory :
     $ cd ~/dev/nosp
 Init core trees without any device/kernel/vendor :
 
-    $ repo init -u https://github.com/NOSP/platform_manifest.git -b nosp444
-
-Init repo with all devices, kernels and vendors supported by NOSP :
-
-    $ repo init -u https://github.com/NOSP/platform_manifest.git -b nosp444 -g all,kernel,device,vendor
-
-Init repo only for a particular device
-
-    $ repo init -u https://github.com/NOSP/platform_manifest.git -b nosp444 -g all,-notdefault,<devicename>,<vendorname>
-
-for example, to init only trees needed to build Hammerhead
-
-    $ repo init -u https://github.com/NOSP/platform_manifest.git -b nosp4442 -g all,-notdefault,hammerhead,lge
+    $ repo init -u https://github.com/NOSP/platform_manifest.git -b nosp500
 
 sync repo
 
