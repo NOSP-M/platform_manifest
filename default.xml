@@ -517,5 +517,5 @@
   <!--Samsung Devices-->
   <!--NOSP adons-->
   <project path="vendor/lge" name="vendor_lge" remote="nosp" revision="nosp500" />
-  <project path="device/lge/hammerhead" name="device/lge/hammerhead" groups="device,hammerhead" remote="nosp" revision="nosp500" />
+  <project path="device/lge/hammerhead" name="android_device_lge_hammerhead" groups="device,hammerhead" remote="nosp" revision="nosp500" />
 </manifest>
