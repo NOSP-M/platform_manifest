@@ -508,6 +508,7 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
 
   <!--NOSP Configurations-->
+  <project path="vendor/nosp" name="vendor_nosp" remote="nosp" revision="nosp500" />
   <!--NOSP Devices-->
   <!--HTC Devices-->
   <!--Samsung Devices-->
