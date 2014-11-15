@@ -514,6 +514,4 @@
   <!--NOSP adons-->
   <project path="packages/apps/SlothWalls" name="packages_wallpapers_SlothWalls" remote="nosp" revision="nosp444" />  
   <project path="external/busybox" name="android_external_busybox" remote="nosp" revision="nosp444" /> 
-  <project path="vendor/lge" name="vendor_lge" remote="nosp" revision="nosp500" />
-  <project path="device/lge/hammerhead" name="android_device_lge_hammerhead" remote="nosp" revision="nosp500" />
 </manifest>
