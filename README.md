@@ -31,12 +31,14 @@ After the sync is finished, please read the [instructions from the Android site]
 
     . build/envsetup.sh
     brunch
+    make -j4
 
 
 You can also build (and see how long it took) for specific devices like this:
 
     . build/envsetup.sh
     time brunch nosp_hammerhead-user
+    make -j4
 
 Remember to `make clobber` every now and then!
 
