@@ -510,11 +510,11 @@
   <project path="vendor/nosp" name="vendor_nosp" />
   <project path="system/core" name="android_system_core" />
   <!--NOSP Devices-->
-  <project path="device/oneplus/bacon" name="device/oneplus/bacon" groups="device,bacon" remote="nosp" revision="nosp500" />
-  <project path="kernel/oneplus/bacon" name="kernel/oneplus/bacon" groups="device,bacon" remote="nosp" revision="nosp500" />
-  <project path="device/oppo/msm8974-common" name="device/oppo/msm8974-common" groups="device,bacon" remote="nosp" revision="nosp500" />
-  <project path="device/oppo/common" name="device/oppo/common" groups="device,bacon" remote="nosp" revision="nosp500" />
-  <project path="device/qcom/common" name="device/qcom/common" groups="device,bacon" remote="nosp" revision="nosp500" />
+  <project path="device/oneplus/bacon" name="device_oneplus_bacon" groups="device,bacon" remote="nosp" revision="nosp500" />
+  <project path="kernel/oneplus/bacon" name="kernel_oneplus_bacon" groups="device,bacon" remote="nosp" revision="nosp500" />
+  <project path="device/oppo/msm8974-common" name="device_oppo_msm8974-common" groups="device,bacon" remote="nosp" revision="nosp500" />
+  <project path="device/oppo/common" name="devic_oppo_common" groups="device,bacon" remote="nosp" revision="nosp500" />
+  <project path="device/qcom/common" name="device_qcom_common" groups="device,bacon" remote="nosp" revision="nosp500" />
   <!--NOSP Vendors-->
   <project path="vendor/oppo" name="android_vendor_oppo" remote="nosp" revision="nosp500" />
   <!--HTC Devices-->
