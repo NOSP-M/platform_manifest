@@ -5,7 +5,7 @@
 Download the source
 --------------
 
-Please read the [NOSP building instructions](http://forums.team-nocturnal.com/index.php/topic/2069-) before proceeding.
+Please read the [NOSP building instructions](http://forums.team-nocturnal.com/index.php/forum/62-) before proceeding.
 
 Initialize:
 
