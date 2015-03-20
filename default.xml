@@ -284,7 +284,7 @@
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.1.0_r1" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.1.0_r1" />
   <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" remote="aosp" revision="refs/tags/android-5.1.0_r1" />
-  
+  <project path="frameworks/base" name="platform/frameworks/base" groups="pdk" remote="aosp" revision="refs/tags/android-5.1.0_r1" /> 
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" remote="aosp" revision="refs/tags/android-5.1.0_r1" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" remote="aosp" revision="refs/tags/android-5.1.0_r1" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" remote="aosp" revision="refs/tags/android-5.1.0_r1" />
@@ -513,7 +513,6 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" remote="aosp" revision="refs/tags/android-5.1.0_r1" />
 
   <!--NOSP Configurations-->
-  <project path="hardware/qcom/display" name="android_hardware_qcom_display" groups="pdk" />
   <project path="build" name="platform_build" remote="nosp" revision="nosp500" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
