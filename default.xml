@@ -320,6 +320,7 @@
   <project name="platform/packages/apps/CellBroadcastReceiver" path="packages/apps/CellBroadcastReceiver" remote="aosp" revision="refs/tags/android-5.1.1_r1" />
   <project groups="pdk-cw-fs" name="platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller" remote="aosp" revision="refs/tags/android-5.1.1_r1" />
   <project name="platform/packages/apps/Exchange" path="packages/apps/Exchange" remote="aosp" revision="refs/tags/android-5.1.1_r1" />
+  <project name="platform/packages/inputmethods/LatinIME" path="packages/inputmethods/LatinIME" remote="aosp" revision="refs/tags/android-5.1.1_r1" />
   <project name="platform/packages/apps/HTMLViewer" path="packages/apps/HTMLViewer" remote="aosp" revision="refs/tags/android-5.1.1_r1" />
   <project name="platform/packages/apps/KeyChain" path="packages/apps/KeyChain" remote="aosp" revision="refs/tags/android-5.1.1_r1" />
   <project name="platform/packages/apps/Launcher3" path="packages/apps/Launcher3" remote="aosp" revision="refs/tags/android-5.1.1_r1" />
@@ -490,6 +491,8 @@
   </project>
   <project path="manifest" name="platform_manifest" groups="nosp" />
   <project path="vendor/nosp" name="vendor_nosp" groups="nosp" />
+  <project path="packages/apps/Settings" name="platform_packages_apps_settings" groups="nosp" />
+  <project path="frameworks/base" name="platform_frameworks_base" groups="nosp" />
   <!--NOSP Devices-->
   <!--NOSP Vendors-->
   <!--HTC Devices-->
