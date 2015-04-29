@@ -414,7 +414,6 @@
   <!--Evervolv Extra Projects-->
   <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" groups="ev-extra" remote="evervolv" />
   <project path="external/bash" name="android_external_bash" groups="ev-extra" remote="evervolv" />
-  <project path="external/busybox" name="android_external_busybox" groups="ev-extra" remote="evervolv" />
   <project path="external/curl" name="android_external_curl" groups="ev-extra" remote="evervolv" />
   <project path="external/ffmpeg" name="android_external_ffmpeg" groups="ev-extra" remote="evervolv" />
   <project path="external/htop" name="android_external_htop" groups="ev-extra" remote="evervolv" />
@@ -493,6 +492,7 @@
   <project path="frameworks/base" name="platform_frameworks_base" groups="nosp" />
   <project path="system/core" name="android_system_core" groups="nosp" />
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" groups="nosp" />
+  <project path="external/busybox" name="android_external_busybox" groups="nosp" />
   <!--NOSP Devices-->
   <!--NOSP Vendors-->
   <!--HTC Devices-->
