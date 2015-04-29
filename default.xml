@@ -475,7 +475,6 @@
   <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" groups="ev-aosp" remote="evervolv" />
   <project path="packages/providers/TelephonyProvider" name="android_packages_providers_TelephonyProvider" groups="ev-aosp" remote="evervolv" />
   <project path="packages/services/Mms" name="android_packages_services_Mms" groups="ev-aosp" remote="evervolv" />
-  <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" groups="ev-aosp" remote="evervolv" />
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" groups="ev-aosp" remote="evervolv" />
   <project path="prebuilts/misc" name="android_prebuilts_misc" groups="ev-aosp" remote="evervolv" />
   <project path="system/extras" name="android_system_extras" groups="ev-aosp" remote="evervolv" />
@@ -493,6 +492,7 @@
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" groups="nosp" />
   <project path="external/busybox" name="android_external_busybox" groups="nosp" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" groups="nosp" />
+  <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" groups="nosp" />
   <!--NOSP Devices-->
   <!--NOSP Vendors-->
   <!--HTC Devices-->
