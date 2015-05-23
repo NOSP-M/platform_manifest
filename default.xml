@@ -436,7 +436,7 @@
   <project path="hardware/cm" name="android_hardware_cm" groups="ev-extra" remote="evervolv" />
   <project path="packages/apps/BluetoothExt" name="android_packages_apps_BluetoothExt" groups="ev-extra" remote="evervolv" />
   <!--Evervolv (Github) Hosted Projects--> 
-  <project path="art" name="android_art" groups="ev-aosp" remote="evervov" />
+  <project path="art" name="android_art" groups="ev-aosp" remote="evervolv" />
   <project path="bionic" name="android_bionic" groups="ev-aosp" remote="evervolv" />
   <project path="bootable/recovery" name="android_bootable_recovery" groups="ev-aosp" remote="evervolv"/>
   <project path="dalvik" name="android_dalvik" groups="ev-aosp" remote="evervolv" />
