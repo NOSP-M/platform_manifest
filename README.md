@@ -16,7 +16,7 @@ Create the build directory :
     $ cd ~/dev/nosp
 Init core trees without any device/kernel/vendor :
 
-    $ repo init -u https://github.com/NOSP/platform_manifest.git -b nosp500
+    $ repo init -u https://github.com/nosp-m/platform_manifest.git -b nosp600
 
 sync repo
 
